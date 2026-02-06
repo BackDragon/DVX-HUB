@@ -1,1 +1,1 @@
-# DVX-HUB
+# DVXHUB
